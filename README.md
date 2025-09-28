@@ -1,6 +1,6 @@
-🚀 Hi there, I'm Adshaya Selvakumar 👋
+👋 Hi there, I'm Adshaya Selvakumar
 
-I'm a passionate IT undergraduate from the University of Moratuwa, who enjoys working on software and hardware projects, building creative digital experiences, and exploring new technologies.
+I'm a passionate **IT undergraduate** from the **University of Moratuwa**, who enjoys working on **software & hardware projects**, building **creative digital experiences**, and exploring **new technologies**.
 
 # 💫 About Me:
  🎓 Studying Information Technology – Batch 23 @ UoM  <br>⚖️ Working on hardware & software projects  <br>🎮 Video Editor & Design Lover<br>✨ I want others’ happiness — that’s my happiness! ✨  <br>💾 My code doesn’t have bugs… it just develops unexpected features!
